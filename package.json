@@ -1,0 +1,12 @@
+{
+  "name": "gork-dashboard",
+  "version": "1.0.0",
+  "description": "High-fidelity Gork network management dashboard — modern dark-mode WiFi / device monitoring UI",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000"
+  },
+  "keywords": ["gork", "dashboard", "network", "wifi", "dark-mode", "ui"],
+  "license": "MIT"
+}
